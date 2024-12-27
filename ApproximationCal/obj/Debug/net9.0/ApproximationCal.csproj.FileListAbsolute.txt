@@ -1,0 +1,14 @@
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\bin\Debug\net9.0\ApproximationCal.exe
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\bin\Debug\net9.0\ApproximationCal.deps.json
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\bin\Debug\net9.0\ApproximationCal.runtimeconfig.json
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\bin\Debug\net9.0\ApproximationCal.dll
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\bin\Debug\net9.0\ApproximationCal.pdb
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\obj\Debug\net9.0\ApproximationCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\obj\Debug\net9.0\ApproximationCal.AssemblyInfoInputs.cache
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\obj\Debug\net9.0\ApproximationCal.AssemblyInfo.cs
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\obj\Debug\net9.0\ApproximationCal.csproj.CoreCompileInputs.cache
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\obj\Debug\net9.0\ApproximationCal.dll
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\obj\Debug\net9.0\refint\ApproximationCal.dll
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\obj\Debug\net9.0\ApproximationCal.pdb
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\obj\Debug\net9.0\ApproximationCal.genruntimeconfig.cache
+C:\Users\HOME PC\source\repos\ConsoleApp1\ApproximationCal\obj\Debug\net9.0\ref\ApproximationCal.dll

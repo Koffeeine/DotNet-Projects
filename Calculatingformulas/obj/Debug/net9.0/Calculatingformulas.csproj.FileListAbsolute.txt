@@ -1,0 +1,14 @@
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\bin\Debug\net9.0\Calculatingformulas.exe
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\bin\Debug\net9.0\Calculatingformulas.deps.json
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\bin\Debug\net9.0\Calculatingformulas.runtimeconfig.json
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\bin\Debug\net9.0\Calculatingformulas.dll
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\bin\Debug\net9.0\Calculatingformulas.pdb
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\obj\Debug\net9.0\Calculatingformulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\obj\Debug\net9.0\Calculatingformulas.AssemblyInfoInputs.cache
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\obj\Debug\net9.0\Calculatingformulas.AssemblyInfo.cs
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\obj\Debug\net9.0\Calculatingformulas.csproj.CoreCompileInputs.cache
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\obj\Debug\net9.0\Calculatingformulas.dll
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\obj\Debug\net9.0\refint\Calculatingformulas.dll
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\obj\Debug\net9.0\Calculatingformulas.pdb
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\obj\Debug\net9.0\Calculatingformulas.genruntimeconfig.cache
+C:\Users\HOME PC\source\repos\ConsoleApp1\Calculatingformulas\obj\Debug\net9.0\ref\Calculatingformulas.dll
